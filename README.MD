@@ -29,7 +29,7 @@ python Shellcrypt.py -c 127.0.0.1 -k <key-to-pass>
 
 ## Demo
 
-![](shellcrypt_demo.png_)
+![](shellcrypt_demo_.png)
 
 
 ## Disclaimer
